@@ -1,0 +1,62 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+
+# Environment variables / secrets
+.env
+*.env
+
+# Publish output
+wwwroot/receipts/
+
+# Configuration files that may contain secrets
+appsettings.Development.json
+appsettings.json
+
+# Entity Framework Migrations snapshot
+Migrations
+
+# Rider IDE
+.idea/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Generated files
+FinanceTracker.Api/obj/
+FinanceTracker.Api/bin/
+
+# HTTP client request files (optional)
+*.http
+
+# Launch settings (local only)
+Properties/launchSettings.json
