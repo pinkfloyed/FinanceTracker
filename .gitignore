@@ -34,7 +34,6 @@ wwwroot/receipts/
 
 # Configuration files that may contain secrets
 appsettings.Development.json
-appsettings.json
 
 # Entity Framework Migrations snapshot
 Migrations
