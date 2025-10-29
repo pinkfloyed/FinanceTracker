@@ -100,7 +100,7 @@ FinanceTracker.Api/
 ### Backend
 - **.NET 8 / ASP.NET Core Web API**
 - **Entity Framework Core** (Code First + Migrations)
-- **SQL Server**
+- **MySQL**
 - **JWT Authentication**
 - **Swagger / Swashbuckle**
 - **Dependency Injection (DI)**
